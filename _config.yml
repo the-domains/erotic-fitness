@@ -1,0 +1,28 @@
+name: Erotic Fitness
+favicon: null
+layout_spectrum: 0.08015938708558679
+typography_spectrum: 0.6959699422586709
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.45708527276292443
+  lightness: 0.3625552267767489
+  saturation: 0.9821923945564777
+  rhythmicContrast: 0.4348286415915936
+purpose: []
